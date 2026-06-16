@@ -1,3 +1,8 @@
+/**
+Name: Viet Nguyen
+Class: Java II
+Assignment: Human Resources
+*/
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
